@@ -1,5 +1,5 @@
 Providerliste/-art: Burak
-Queryformat: Fred
+Queryformat: Lothar
 JSON: Alex
 Preferences: Tim
-Datenaustausch mit Team UI: Lothar
+SECH TAGS: Fred
