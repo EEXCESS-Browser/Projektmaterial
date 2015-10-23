@@ -1,5 +1,0 @@
-Providerliste/-art: Burak
-Queryformat: Lothar
-JSON: Alex
-Preferences: Tim
-SECH TAGS: Fred
